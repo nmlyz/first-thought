@@ -1,6 +1,10 @@
 # first-thought
 
-One word, the first that comes to mind.
+[![make.fun · u-0xkianno-one-word-first-thought-106abaf8](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![rank](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/nmlyz/first-thought/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![reward](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/nmlyz/first-thought/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+
+One word, the first that comes to mind. See the bounty: https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8
 
 This program writes a single word to `entry.txt`: **defenestration** — the act
 of throwing someone out of a window. No topic, no explanation, no second
